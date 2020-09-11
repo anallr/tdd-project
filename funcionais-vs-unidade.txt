@@ -1,0 +1,4 @@
+Os testes funcionais têm como objetivo simular e testar a interação de um usuário com um dado serviço. Em um teste funcional normalmente é feito um roteiro de ações que um usuário tomaria utilizando o sistema e só são validados os retornos dessas ações.
+
+Em um teste de unidade são selecionadas funções ou métodos e são testadas múltiplas entradas para verificar seu comportamento. Como exemplo, são definidas entradas e saídas possíveis, e caso a função não comporte da maneira esperada, ela retorna erro.
+
