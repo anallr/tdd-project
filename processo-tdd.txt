@@ -1,0 +1,5 @@
+Inicialmente, antes de escrever qualquer linha de código relacionada aos requisitos do sistema, deverá ser escolhida uma funcionalidade para iniciar o fluxo do TDD. Ao criar o primeiro teste, ele não passará pois o código da especificação ainda não existe. Portanto, o código deverá ser modificado até que o teste passe (execute sem erros). Nesta etapa, podem ser incluídas gambiarras de código.
+
+Passando no teste, o código deve ser refatorado de forma iterativa, ou seja, a cada modificação o teste deverá ser executado, para dessa forma identificar o ponto exato caso ocorram problemas com a execução do código.
+
+Ao incluir testes unitários e funcionais nesse modelo de desenvolvimento, os dois testes são incluídos em um modelo que trabalha de forma iterativa em vários momentos. Como o teste funcional testa o sistema como um todo e o teste unitário uma unidade específica, quando um teste funcional não passa, o teste unitário é desenvolvido e precisa passar.
