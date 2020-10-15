@@ -1,6 +1,7 @@
 from selenium.webdriver.common.keys import Keys
 from unittest import skip
 from .base import FunctionalTest
+from django.core.exceptions import ValidationError
 
 class ItemValidationTest(FunctionalTest):
 
